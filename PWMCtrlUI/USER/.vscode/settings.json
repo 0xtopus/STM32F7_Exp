@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "gui.h": "c",
+        "led.h": "c",
+        "pwmout.h": "c",
+        "timer.h": "c",
+        "stm32f7xx_hal.h": "c",
+        "dialog.h": "c"
+    }
+}
